@@ -3,13 +3,17 @@ title: "College of Charleston - CSCI 340 Operating Systems I - Spring 2025"
 ---
 
 -----
-# College of Charleston - CSCI 340 Operating Systems I - Spring 2025
+<!-- # College of Charleston - CSCI 340 Operating Systems I - Spring 2025 -->
 
 
 
-## Contact Information for Tuck Williamson, Graduate Teaching Assistant
+# Tuck Williamson, Graduate Teaching Assistant
+---
 
-Graduate Student for Masters in Computer Science, College of Charleston
+Graduate Student - Masters in Computer Science, College of Charleston
+
+## Contact Information
+
 
 **Office**: Harbor Walk East (HWEA) 311
 
