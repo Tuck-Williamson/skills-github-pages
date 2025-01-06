@@ -35,8 +35,8 @@ If you are already at Harbor Walk and want to drop by during my office hours fee
 |:---|---:|---|
 | Monday | 8:30 am - 10:30 am <br> _CSCI 340_ <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ |
 | Tuesday | 8:30 am - 1:30 pm <br> **By Appointment Only**: 🌙 8 pm - 10 pm | - | 
-| Wednesday | 8:30 am - 10:30 am </br>  _CSCI 340_ </br> 11:30 am - 12:30 pm | - |
+| Wednesday | 8:30 am - 10:30 am <br>  _CSCI 340_ <br> 11:30 am - 12:30 pm | - |
 | Thursday | **By Appointment Only** | - |
-| Friday |  _CSCI 340_ </br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_ |
+| Friday |  _CSCI 340_ <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_ |
 
 
