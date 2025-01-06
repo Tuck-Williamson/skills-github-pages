@@ -1,5 +1,5 @@
 ---
-title: "College of Charleston - CSCI 340 Operating Systems I - Spring 2025"
+title: "CSCI 340 Operating Systems I - Spring 2025"
 ---
 
 -----
@@ -22,7 +22,7 @@ Graduate Student - Masters in Computer Science, College of Charleston
 ## Office Hours
 **Please check here prior to making a trip to my office.**
 
-I **will** update my office hours throughout the semester specifically after the first couple of weeks when I have determined what works best with my classes and assignments.
+I **will** update my office hours throughout the semester specifically after the first couple of weeks when I have determined what works best with my classes and assignments and for you.
 
 If you are already at Harbor Walk and want to drop by during my office hours feel free.
 
